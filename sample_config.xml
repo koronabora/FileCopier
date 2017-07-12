@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Files>
+	<File>
+		<SrcPath>D:\TEST\1</SrcPath>
+		<FileName>screen1.png</FileName>
+		<CopyToPath>D:\TEST\2</CopyToPath>
+	</File>
+	<File>
+		<SrcPath>D:\TEST\1</SrcPath>
+		<FileName>Base.sln</FileName>
+		<CopyToPath>D:\TEST\2</CopyToPath>
+	</File>
+	<File>
+		<SrcPath>D:\TEST\1</SrcPath>
+		<FileName>screen0.png</FileName>
+		<CopyToPath>D:\TEST\2</CopyToPath>
+	</File>
+	<File>
+		<SrcPath>D:\TEST\1</SrcPath>
+		<FileName>LICENSE</FileName>
+		<CopyToPath>D:\TEST\2</CopyToPath>
+	</File>
+	<File>
+		<SrcPath>D:\TEST\1</SrcPath>
+		<FileName>database.sqlite</FileName>
+		<CopyToPath>D:\TEST\2</CopyToPath>
+	</File>
+	<File>
+		<SrcPath>D:\TEST\1</SrcPath>
+		<FileName>deploy_w32_r.bat</FileName>
+		<CopyToPath>D:\TEST\2</CopyToPath>
+	</File>
+</Files>
